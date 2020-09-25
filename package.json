@@ -1,0 +1,14 @@
+{
+  "name": "j02-t01-if",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tehtava.html",
+  "scripts": {
+    "test": "testcafe chrome:headless tehtava/tests/"
+  },
+  "author": "Pekka Tapio Aalto",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.9.1"
+  }
+}
